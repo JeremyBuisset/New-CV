@@ -14,7 +14,7 @@
         <i class="fas fa-signature"></i>    BUISSET Jérémy<br>
         <i class="far fa-address-card"></i>     254 rue Jules Gallois <br>
         <i class="fas fa-city"></i>     59720 Louvroil<br>
-        <i class="fas fa-envelope"></i>   06.17.43.70.10</div>
+        <i class="fas fa-envelope"></i>   jeremybuisset@laposte.net</div>
     <div id="bar"></div>
     <h1>DÉVELOPPEUR WEB</h1>
 </header>
